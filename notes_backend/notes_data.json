@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Notes",
+    "content": "This is your first note.",
+    "created_at": "2025-11-21T11:25:00.813473",
+    "updated_at": "2025-11-21T11:25:00.813473"
+  },
+  {
+    "id": 2,
+    "title": "Tips",
+    "content": "Use POST /notes to add, PUT to update, DELETE to remove.",
+    "created_at": "2025-11-21T11:25:00.813473",
+    "updated_at": "2025-11-21T11:25:00.813473"
+  }
+]
